@@ -1,0 +1,8 @@
+payment_format,transactions,laundering,laundering_pct
+ACH,600793,4483,0.746
+Bitcoin,146086,56,0.038
+Cash,490891,108,0.022
+Cheque,1864331,324,0.017
+Credit Card,1323324,206,0.016
+Wire,171855,0,0.0
+Reinvestment,481056,0,0.0
